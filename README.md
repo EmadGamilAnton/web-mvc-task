@@ -14,8 +14,9 @@
               Product category (Selection).
               Product stock quantity [From-To].
               The filters should affect the results in the data gird view.
-
-
-![image](https://user-images.githubusercontent.com/7760254/160818847-d7bf1475-762d-465f-89ad-337ca6716495.png)
+              
+              
+![Capture](https://user-images.githubusercontent.com/7760254/162184325-f102eb54-9b0d-4c65-91ab-2390eeee79e3.PNG)
 # Database File
-[taskone.zip](https://github.com/EmadGamilAnton/web-mvc-task/files/8394340/taskone.zip)
+[taskone.zip](https://github.com/EmadGamilAnton/web-mvc-task/files/8442207/taskone.zip)
+
